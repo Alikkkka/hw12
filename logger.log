@@ -1,0 +1,518 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 16:27:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 16:27:16] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 16:27:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 16:27:20] "GET /?s=hhfhfhh HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 16:27:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 16:27:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 16:27:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 16:27:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:00:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:00:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:00:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:00:06] "GET /?s=ggg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:00:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:00:27] "GET /?s=еда HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:00:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:01] "GET /?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:10] "GET /?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:10] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:11] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:37] "GET /?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:03:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:09:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:09:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:09:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:09:48] "GET /?s=s HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:09:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:09:56] "GET /?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:09:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:00] "GET /?s=агах HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:01] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:02] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:02] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:02] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:02] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:02] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:10:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:12:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:12:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:12:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:13:01] "GET /?s=f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:13:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:13:04] "GET /?s=ffffff HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:13:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:14:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:14:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:14:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:14:36] "GET /?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:14:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:14:42] "GET /?s=агах HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:14:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:16:22] "[33mGET /search/s=агах HTTP/1.1[0m" 404 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:16:34] "GET /?/search/s=агах HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:16:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:16:44] "GET /?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:16:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:44] "GET /?s=f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:47] "GET /?s=фгф HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:52] "GET /?s=п HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:53] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:53] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:53] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:54] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:54] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:54] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:54] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:54] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:24:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:40] "GET /?s=j HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:42] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:42] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:44] "GET /?s=hhfhfhh HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:45] "GET /?s=hhh HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:50] "GET /?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:27:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:31:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:31:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:31:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:03] "GET /?s=фгф HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:07] "GET /?s=о HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:07] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:07] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:09] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:32:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:12] "GET /?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:13] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:13] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:13] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:13] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:14] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:14] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:14] "GET /?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:36:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:53:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:53:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:53:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:53:31] "GET /?s=аа HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:53:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:53:34] "GET /?s=ааа HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:53:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:59:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:59:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:59:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:59:18] "GET /?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:59:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:59:24] "GET /?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 17:59:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:02:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:02:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:02:51] "GET /?s=b HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:02:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:02:56] "GET /?s=а HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:02:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:11:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:11:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:11:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:11:32] "GET /?s=фгф HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:11:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:11:35] "GET /?s=фф HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:11:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:11:38] "GET /?s=фффф HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:11:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:27] "GET /search?s=фгфффф HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:35] "GET /search?s=фгфгфффф HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:40] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:48] "GET /search?s=Алика HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:54] "GET /search?s=еда HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:15:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:01] "GET /search?s=горы HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:07] "GET /search?s=путешествие HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:12] "GET /search?s=путешествие HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:17] "GET /search?s=п+ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:20] "GET /search?s=а HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:34] "GET /search?s=море HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:40] "GET /search?s=закат HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:16:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:49:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:49:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:50:07] "GET /search?s=вгв HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:50:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:50:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:50:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:50:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:50:09] "[31m[1mGET /post HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:54:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:54:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:54:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:54:23] "GET /search?s=f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:54:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:54:25] "[31m[1mGET /post HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:55:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:55:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:55:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:55:21] "GET /search?s=f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:55:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:55:22] "[31m[1mGET /post HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:58:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:58:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:58:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:58:46] "GET /search?s=f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:58:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 18:58:47] "[31m[1mGET /post HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 19:00:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 19:00:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 19:00:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 19:01:03] "GET /search?s=d HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 19:01:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [21/May/2022 19:01:04] "[31m[1mGET /post HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:17:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:17:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:17:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:17:16] "GET /search?s=rt HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:17:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:17:17] "[31m[1mGET /post HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:19:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:19:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:19:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:19:30] "[31m[1mGET /post HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:55:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:55:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:55:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:55:17] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:55:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:55:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:55:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:55:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:55:20] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:55:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:56:15] "POST /post HTTP/1.1" 200 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:56:38] "POST /post HTTP/1.1" 200 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:56:56] "POST /post HTTP/1.1" 200 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:08] "POST /post HTTP/1.1" 200 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:15] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:18] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:20] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:23] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:23] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:24] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:24] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:26] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 10:57:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:00:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:00:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:00:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:00:20] "GET /search?s=ррр HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:00:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:00:21] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:00:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:00:49] "POST /post HTTP/1.1" 200 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:01:13] "POST /post HTTP/1.1" 200 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:01:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:01:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:01:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:12:11] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:12:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:12:25] "POST /post HTTP/1.1" 200 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:12:30] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:26] "GET /search?s=n HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:27] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:43] "POST /post HTTP/1.1" 200 -
+INFO:root:Данные не загружены, отсутствует часть данных
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:54] "POST /post HTTP/1.1" 200 -
