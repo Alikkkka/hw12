@@ -516,3 +516,59 @@ INFO:root:Данные не загружены, отсутствует част�
 INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:43] "POST /post HTTP/1.1" 200 -
 INFO:root:Данные не загружены, отсутствует часть данных
 INFO:werkzeug:127.0.0.1 - - [22/May/2022 11:21:54] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:36:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:36:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:36:57] "GET /search?s=gg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:36:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:36:58] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:36:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:37:06] "[31m[1mPOST /post HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:37:23] "[31m[1mPOST /post HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:37:37] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:37:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:37:37] "GET /uploads/images/2022-04-14%2020.29.26.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:37:42] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:37:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:37:58] "[31m[1mPOST /post HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:38:55] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:38:55] "GET /uploads/images/2022-04-14%2020.29.39.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:38:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:38:57] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:38:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5005 (Press CTRL+C to quit)
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:22] "GET /search?s=блины HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:22] "[36mGET /uploads/images/2022-04-14%2020.29.26.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:24] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:37] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:37] "GET /uploads/images/43ADA3F8-6AC6-40C9-A5A9-D59D4AF022EC.JPG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:40] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:40:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:03] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:03] "GET /uploads/images/IMG_6811.JPG HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:06] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняется поиск
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:13] "GET /search?s=п HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:13] "[36mGET /uploads/images/IMG_6811.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/May/2022 11:41:13] "[36mGET /uploads/images/43ADA3F8-6AC6-40C9-A5A9-D59D4AF022EC.JPG HTTP/1.1[0m" 304 -

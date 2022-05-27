@@ -19,7 +19,7 @@ def create_new_post_page():
 @loader_blueprint.route("/post", methods=["POST"])
 def create_new_post_by_user():
     picture = request.files.get("picture")
-    content = request.files.get("content")
+    content = request.form.get("content")
     if not picture or not content:
         logging.info("Данные не загружены, отсутствует часть данных")
         return "Отсутствует часть данных"

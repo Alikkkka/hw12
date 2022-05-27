@@ -6,7 +6,7 @@ from exceptions import *
 def save_picture(picture):
     allowed_types = ["pdf", "jpg", "jpeg", "png"]
     picture_type = picture.filename.split(".")[-1]
-    if picture_type not in allowed_types:
+    if picture_type.lower() not in allowed_types:
         raise WrongImgFile("неверный формат файла")
 
     picture_path = f"{UPLOAD_FOLDER}/{picture.filename}"
